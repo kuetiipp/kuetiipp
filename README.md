@@ -32,6 +32,10 @@ I like riding a bike🚲.
 
 
 
+![Kuetiipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuetiipp&show_icons=true&theme=calm_pink)
+
+
+
 
 <!--
 **kuetiipp/kuetiipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
