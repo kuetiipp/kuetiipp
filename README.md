@@ -18,6 +18,7 @@ I like riding a bike🚲.
 <a href="https://aws.amazon.com/ko/free/?gclid=Cj0KCQjwlZixBhCoARIsAIC745CGzRGG7j4oeslHzs0KswP602pYh2EvaFOlHGeuqY-2H6H5DLwz6cUaAjnuEALw_wcB&trk=2e777eb1-7c1a-4acc-ae47-724e1cd50096&sc_channel=ps&ef_id=Cj0KCQjwlZixBhCoARIsAIC745CGzRGG7j4oeslHzs0KswP602pYh2EvaFOlHGeuqY-2H6H5DLwz6cUaAjnuEALw_wcB:G:s&s_kwcid=AL!4422!3!444218215904!e!!g!!aws!10287751092!99328587341&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
 <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/SupaBase-3FCF8E?style=for-the-badge&logo=SupaBase&logoColor=white"/></a>
 <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white"/></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/></a>
 
 
 
