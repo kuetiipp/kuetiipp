@@ -35,6 +35,9 @@ I like riding a bike🚲.
 
 ![Kuetiipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuetiipp&show_icons=true&theme=calm_pink)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuetiipp&layout=compact)](https://github.com/kuetiipp/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkuetiipp&count_bg=%23FFAC00&title_bg=%23555555&icon=keybase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
