@@ -1,4 +1,4 @@
-#### Hi there 👋! I'm web front-end developer.
+#### Hi there 👋! I'm kuetiipp, web front-end developer. 
 
 I like riding a bike🚲.
 
@@ -11,6 +11,10 @@ I like riding a bike🚲.
 
 <a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/></a>
+<a href="https://recoiljs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/></a>
+<a href="https://tanstack.com/query/v4/docs/framework/react/overview" target="_blank"><img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white"/></a>
+
+
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/></a>
 <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/></a>
 <a href="https://axios-http.com/kr/docs/intro" target="_blank"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/></a>
