@@ -1,6 +1,8 @@
-#### Hi there 👋! I'm kuetiipp, web front-end developer. 
+## <div align='center'>Hi there 👋!</div> 
+## <div align='center'>I'm kuetiipp, web front-end developer, growing every day🤓!</div>
 
 I like riding a bike🚲.
+
 
 ### 🔥 Skills & Libraries
 
@@ -35,6 +37,7 @@ I like riding a bike🚲.
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 
+### 📝 [kuetiip's velog](https://velog.io/@kuetiipp/posts)
 
 
 ![Kuetiipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuetiipp&show_icons=true&theme=calm_pink)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuetiipp&layout=compact)](https://github.com/kuetiipp/github-readme-stats) 
