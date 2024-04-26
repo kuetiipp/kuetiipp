@@ -4,7 +4,7 @@
 I like riding a bike🚲.
 
 
-### 🔥 Languages & Libraries
+### 🔥 Languages & Libraries
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=Typescript&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
