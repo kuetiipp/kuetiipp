@@ -1,4 +1,4 @@
-## <div align='center'>Hi there 👋!</div> 
+<!--## <div align='center'>Hi there 👋!</div> 
 ## <div align='center'>I'm kuetiipp, web front-end developer, growing every day🤓!</div>
 
 I like riding a bike🚲.
